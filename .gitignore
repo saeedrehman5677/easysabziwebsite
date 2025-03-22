@@ -1,0 +1,17 @@
+# 🔹 Ignore the entire admin folder
+
+# 🔹 OR, Ignore specific files & folders inside admin (if you want to keep some files)
+admin/.env
+admin/vendor/
+admin/node_modules/
+admin/storage/
+admin/bootstrap/cache/
+admin/public/storage
+admin/database/*.sqlite
+admin/database/*.bak
+
+# 🔹 IDE & System Files
+admin/.idea/
+admin/.vscode/
+admin/.DS_Store
+admin/Thumbs.db
