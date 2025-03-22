@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7721e1-4b87-4315-a609-8584769133c7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/app/Http/Controllers/Api/V1/MapApiController.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/app/Http/Controllers/Api/V1/MapApiController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/firebase-messaging-sw.js" beforeDir="false" afterPath="$PROJECT_DIR$/admin/firebase-messaging-sw.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/admin/resources/lang/en/messages.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/resources/lang/en/messages.php" afterDir="false" />
@@ -19,22 +20,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2ugZPI11JEKOL3gLKyMmX9GIC8D" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1742672165590</updated>
       <workItem from="1742672178010" duration="287000" />
+      <workItem from="1742672712515" duration="240000" />
     </task>
     <servers />
   </component>
